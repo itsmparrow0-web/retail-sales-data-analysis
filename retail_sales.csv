@@ -1,0 +1,16 @@
+OrderID,City,Product,Quantity,Price,Month,Revenue
+101,Bangalore,Laptop,2,45000,January,90000
+102,Delhi,Mobile,5,15000,January,75000
+103,Mumbai,Laptop,1,45000,January,45000
+104,Bangalore,Headphones,10,1000,February,10000
+105,Delhi,Mobile,3,15000,February,45000
+106,Mumbai,Tablet,4,20000,February,80000
+107,Bangalore,Laptop,3,45000,March,135000
+108,Delhi,Headphones,8,1000,March,8000
+109,Mumbai,Mobile,6,15000,March,90000
+110,Bangalore,Tablet,2,20000,March,40000
+111,Delhi,Laptop,2,45000,April,90000
+112,Mumbai,Headphones,12,1000,April,12000
+113,Bangalore,Mobile,4,15000,April,60000
+114,Delhi,Tablet,3,20000,April,60000
+115,Mumbai,Laptop,2,45000,May,90000
